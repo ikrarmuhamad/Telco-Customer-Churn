@@ -61,29 +61,29 @@ Preprocessing, exploratory analysis, and create machine learning model
 # Exploratory Data Analysis
 
 - Berapa jumlah pengguna yang churn dan tidak churn?
-![churn](https://user-images.githubusercontent.com/97740444/162631076-9a90e4a4-b7c0-465e-b5f9-da59cf4ccf6c.png)
+![image](https://user-images.githubusercontent.com/97740444/162632901-a16717e0-d700-4b55-b357-f425dca08fdd.png)
 Terdapat 26.5% pelanggan yang churn dan sekitar 73.5% pelanggan yang tidak churn
 
 - Dari golongan usia manakah pelanggan yang melakukan churn?
-![senior](https://user-images.githubusercontent.com/97740444/162630310-806bf4bb-58f1-48dc-891d-a1424c7c3074.png)
+![image](https://user-images.githubusercontent.com/97740444/162632921-d7847a10-420b-437f-bd56-16e7d41c6091.png)
 Dari analisis tersebut, kebanyakan pelanggan yang churn berasal dari golongan muda
 
 - Berapa banyak biaya bulanan yang dimiliki oleh pelanggan yang churn?
-![month](https://user-images.githubusercontent.com/97740444/162631096-93801d33-3133-4704-8515-c89a17853e81.png)
+![image](https://user-images.githubusercontent.com/97740444/162632939-1bd018d6-cdb6-4afe-b3f8-80f1c5b9fc24.png)
 Jumlah yang dibebankan kepada pelanggan yang churn setiap bulan sebagian besar berada di kisaran 75-125
 
 - Berapa bulan waktu yang dihabiskan pelanggan churn untuk berada di company?
-![tenure](https://user-images.githubusercontent.com/97740444/162631107-fd9eba14-783b-4e45-822c-ad5ab586325c.png)
+![image](https://user-images.githubusercontent.com/97740444/162632965-f2ff53b8-d010-4872-ad52-0df3374958db.png)
 Pelanggan yang churn sebagian besar telah menetap di perusahaan paling tidak sekitar 0-20 bulan. Jika dibandingkan dengan pelanggan yang tidak churn, pelanggan yang churn termasuk orang-orang yang baru bergabung kedalam perusahaan
 
 - Apa jenis internet yang digunakan oleh pelanggan yang churn?
-![internet](https://user-images.githubusercontent.com/97740444/162631123-3394f544-6ee5-4001-9310-690f0b01c867.png)
+![image](https://user-images.githubusercontent.com/97740444/162632986-0f420136-b00e-4dfc-af9c-d0a836e6d95a.png)
 Sebagian besar pelanggan yang churn itu menggunakan fiber optic untuk internet service
 
 - Apa jenis pembayaran yang dilakukan oleh pelanggan yang churn?
-![payment](https://user-images.githubusercontent.com/97740444/162631145-f5a929b1-8399-4f93-a379-51784061558a.png)
+![image](https://user-images.githubusercontent.com/97740444/162633009-ad6d937d-882a-4c0d-b12e-035e42fd7cc4.png)
 Electronic check lebih dominan digunakan oleh pelanggan yang churn
 
 - Region mana yang sering terjadi churn?
-![image](https://user-images.githubusercontent.com/97740444/162631389-22779326-3cb2-4ac8-b4cd-653b10cc436f.png)
+![image](https://user-images.githubusercontent.com/97740444/162633033-eb76adf8-536e-4c64-b469-5e3401c3fe21.png)
 Customer yang berasal dari Jerman yang paling banyak melakukan churn
