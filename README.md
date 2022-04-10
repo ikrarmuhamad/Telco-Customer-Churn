@@ -65,7 +65,9 @@ Preprocessing, exploratory analysis, and create machine learning model
 Terdapat 26.5% pelanggan yang churn dan sekitar 73.5% pelanggan yang tidak churn
 
 - Dari golongan usia manakah pelanggan yang melakukan churn?
+
 ![senior](https://user-images.githubusercontent.com/97740444/162630310-806bf4bb-58f1-48dc-891d-a1424c7c3074.png)
+
 Dari analisis tersebut, kebanyakan pelanggan yang churn berasal dari golongan muda
 
 - Berapa banyak biaya bulanan yang dimiliki oleh pelanggan yang churn?
