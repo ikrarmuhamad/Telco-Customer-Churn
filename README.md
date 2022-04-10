@@ -85,14 +85,5 @@ Sebagian besar pelanggan yang churn itu menggunakan fiber optic untuk internet s
 Electronic check lebih dominan digunakan oleh pelanggan yang churn
 
 - Region mana yang sering terjadi churn?
-![region](https://user-images.githubusercontent.com/97740444/162631152-867cae96-6a55-4d0e-a372-ba6a2e0baf4b.png)
+![image](https://user-images.githubusercontent.com/97740444/162631389-22779326-3cb2-4ac8-b4cd-653b10cc436f.png)
 Customer yang berasal dari Jerman yang paling banyak melakukan churn
-
-
-# Modelling
-
-## Random Forest Classifier
-
-- Random forest classifier adalah supervised machine learning yang digunakan untuk mengklasifikasikan
-- 
-
