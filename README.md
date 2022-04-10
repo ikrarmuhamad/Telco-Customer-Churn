@@ -87,3 +87,7 @@ Electronic check lebih dominan digunakan oleh pelanggan yang churn
 - Region mana yang sering terjadi churn?
 ![image](https://user-images.githubusercontent.com/97740444/162633033-eb76adf8-536e-4c64-b469-5e3401c3fe21.png)
 Customer yang berasal dari Jerman yang paling banyak melakukan churn
+
+# Modelling
+## Random forest classifier
+- Random forest classifier merupakan supervised machine learning yang digunakan untuk mengklasifikasikan
