@@ -60,9 +60,7 @@ Preprocessing, exploratory analysis, and create machine learning model
 
 # Exploratory Data Analysis
 
-- Berapa jumlah pengguna yang churn dan tidak churn?
-![image](https://user-images.githubusercontent.com/97740444/162630198-049319e2-f2bb-4e0d-a836-0d16ba7dfb5d.png)
-Terdapat 26.5% pelanggan yang churn dan sekitar 73.5% pelanggan yang tidak churn
+- Berapa jumlah pengguna yang churn dan tidak churn? ![image](https://user-images.githubusercontent.com/97740444/162630198-049319e2-f2bb-4e0d-a836-0d16ba7dfb5d.png) Terdapat 26.5% pelanggan yang churn dan sekitar 73.5% pelanggan yang tidak churn
 
 - Dari golongan usia manakah pelanggan yang melakukan churn?
 
