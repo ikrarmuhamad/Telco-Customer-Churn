@@ -88,3 +88,20 @@ Electronic check lebih dominan digunakan oleh pelanggan yang churn
 ![image](https://user-images.githubusercontent.com/97740444/162633033-eb76adf8-536e-4c64-b469-5e3401c3fe21.png)
 Customer yang berasal dari Jerman yang paling banyak melakukan churn
 
+# Modelling
+## Random Forest
+- Perbandingan value dari variable target
+![image](https://github.com/ikrarmuhamad/Telco-Customer-Churn/assets/97740444/8de533a9-8824-4b7e-a77c-37445396584d)
+Terdapat perbedaan ukuran dari variable target, masih tergolong cukup baik untuk dilakukan modelling tanpa mengatasi permasalahan imbalance data. Namun disini diatasi permasalahan imbalance data, menggunakan teknik SMOTE.
+- Model Random Forest memiliki performa yang cukup baik dengan akurasi sekitar 85% dan tingkat presisi mencapai 86%
+- ROC Curve
+![image](https://github.com/ikrarmuhamad/Telco-Customer-Churn/assets/97740444/dc05f89a-a78f-4373-9cb5-c2d5176b672b)
+Area ROC-AUC dari hasil model Random Forest memiliki performa yang baik, dengan area ROC berada di sekitar 0.85. Ini terbilang cukup baik karena peningkatan True Positif yang pesat tidak diiringi dengan peningkatan False positif. Sehingga model memiliki nilai True Positif Rate yang cukup baik
+- Confusion Matrix
+![image](https://github.com/ikrarmuhamad/Telco-Customer-Churn/assets/97740444/382e31e0-a1cb-4c61-b646-f538efadc69f)
+Berdasarkan hasil dari modelling, Random Forest terlihat memiliki performa yang sangat baik dengan beberapa metrik sebagai berikut :
+  * Presisi : 86%
+  * Akurasi : 85%
+  * F1-Score : 85%
+  * Recall : 85%
+
