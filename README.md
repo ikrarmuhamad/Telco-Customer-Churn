@@ -92,6 +92,7 @@ Customer yang berasal dari Jerman yang paling banyak melakukan churn
 ## Random Forest
 - Perbandingan value dari variable target
 ![image](https://github.com/ikrarmuhamad/Telco-Customer-Churn/assets/97740444/8de533a9-8824-4b7e-a77c-37445396584d)
+
 Terdapat perbedaan ukuran dari variable target, masih tergolong cukup baik untuk dilakukan modelling tanpa mengatasi permasalahan imbalance data. Namun disini diatasi permasalahan imbalance data, menggunakan teknik SMOTE.
 - Model Random Forest memiliki performa yang cukup baik dengan akurasi sekitar 85% dan tingkat presisi mencapai 86%
 - ROC Curve
